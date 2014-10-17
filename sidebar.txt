@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fly:home|Door43 (fly)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fly|d43-fly repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fly/archive/master.zip|d43-fly.zip]]
+
+**Recent Changes**
+{{changes>ns = fly}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fly|Ethnologue data]]
+
